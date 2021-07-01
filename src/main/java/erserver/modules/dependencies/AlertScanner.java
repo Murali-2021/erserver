@@ -7,6 +7,7 @@ import erserver.modules.dependencies.vendorpagersystem.PagerSystem;
 import java.util.ArrayList;
 import java.util.List;
 
+//Testing
 public class AlertScanner {
 
    private static final String ADMIN_ON_CALL_DEVICE = "111-111-1111";
